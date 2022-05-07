@@ -1,6 +1,6 @@
 name: Discord Webhook Commit Log
 on:
-  issue:
+  issues:
     types:
       - opened
       - labeled
